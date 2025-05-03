@@ -1,6 +1,6 @@
-# AI 
+# Brain Tumor Detection Using Convolutional Neural Networks with Enhanced Visualization for Improved Diagnostic Accuracy 
 Brain Tumor Classification Using CNN
-This project focuses on classifying brain tumor types using Convolutional Neural Networks (CNNs) with TensorFlow and Keras. It identifies four categories of brain tumors: glioma, meningioma, pituitary, and no tumor, based on MRI scan images.
+This project focuses on classifying brain tumor types using Convolutional Neural Networks (CNNs) with TensorFlow and Keras. Based on MRI scan images, it identifies four categories of brain tumors: glioma, meningioma, pituitary, and no tumor.
 
 📌 Overview
 Model Type: Convolutional Neural Network (CNN)
